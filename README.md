@@ -34,6 +34,3 @@ I am a full-time student at Stevens Institute of Technology. I am majoring in Co
 </div>  
 
 <br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
