@@ -30,7 +30,7 @@ I am a full-time student at Stevens Institute of Technology. I am majoring in Co
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank">
+<a href="[https://code.visualstudio.com/](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)" target="_blank">
   <img
     style="margin: 10px"
     src="URL_OF_YOUR_HOSTED_VSCODE_LOGO_IMAGE"
