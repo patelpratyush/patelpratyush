@@ -5,7 +5,9 @@
 
 ### About Me:  
 I am a full-time student at Stevens Institute of Technology. I am majoring in Computer Science. I have been interested in coding since the age of 15 years old. I started off coding using Scratch code and later learn languages such as Python and Java.  
-  
+
+### Portfolio
+[Portfolio](https://patelpratyush.github.io/)
 
 <a href="https://github.com/patelpratyush" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
