@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Pratyush   
-<h3 align="center">A passionate Student Developer</h3>
+### A passionate Student Developer
 
 - 👨‍🎓 I’m currently student at **Stevens Institute of Technology**
 
