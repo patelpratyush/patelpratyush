@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <h1>Hi 👋 I'm Pratyush Patel</h1>
-</div>
+<h1 align="center">Hi 👋, I'm Pratyush Patel</h1>
 
 # 💫 About Me:
 I'm currently a student at the Stevens Institute of Technology and I am passionate about exploring the realms of coding.
