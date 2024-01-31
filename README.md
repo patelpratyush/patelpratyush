@@ -1,4 +1,4 @@
-# Hi 👋 I'm Pratyush Patel
+<center># Hi 👋 I'm Pratyush Patel</center>
 
 # 💫 About Me:
 I'm currently a student at the Stevens Institute of Technology and I am passionate about exploring the realms of coding.
