@@ -13,7 +13,7 @@ I'm currently a student at the Stevens Institute of Technology and I am passiona
 
 [![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,netlify,idea,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,netlify,vercel,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patelpratyush&theme=dark&hide_border=false)<br/>
