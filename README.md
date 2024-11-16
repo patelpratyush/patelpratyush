@@ -17,3 +17,6 @@ I'm currently a student at the Stevens Institute of Technology and I am passiona
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patelpratyush&theme=dark&hide_border=false)<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
