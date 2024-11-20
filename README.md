@@ -21,11 +21,11 @@ I'm currently a student at the Stevens Institute of Technology and I am passiona
 <!--START_SECTION:waka-->
 
 ```txt
-Python     4 hrs 2 mins    █████████████░░░░░░░░░░░░   52.15 %
-Erlang     2 hrs 57 mins   █████████▓░░░░░░░░░░░░░░░   38.03 %
-Markdown   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-TeX        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Python     3 hrs 46 mins   █████████████░░░░░░░░░░░░   51.52 %
+Erlang     2 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   40.20 %
+Markdown   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+TeX        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
