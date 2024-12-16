@@ -18,14 +18,3 @@ I'm currently a student at the Stevens Institute of Technology and I am passiona
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patelpratyush&theme=dark&hide_border=false)<br/>
 
-<!--START_SECTION:waka-->
-
-```txt
-Python     4 hrs 35 mins   █████████████████▒░░░░░░░   69.53 %
-TeX        1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
-Markdown   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Promela    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Erlang     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-```
-
-<!--END_SECTION:waka-->
