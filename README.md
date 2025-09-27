@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pratyush Patel</h1>
-<h3 align="center">Software Engineer | AI Researcher | SaaS Builder 🚀</h3>
+<h3 align="center">Software Engineer | SaaS Builder | AI Enthusiast 🚀</h3>
 
 ---
 
 ## 💫 About Me
-- 🎓 Pursuing **BS/MS in Computer Science** at **Stevens Institute of Technology** (BS ‘25, MS ‘26)  
-- 🔬 Researching **AI for Policy Verification** (Published at **NLBSE’25**)  
-- 💡 Passionate about **AI-powered SaaS**, **Full-Stack Development**, and **ML/Cloud Systems**  
-- ⚡ Built **ResumeSharp, ProfessAI, AI Flashcards, F1 Insight Hub** with 100+ users & real revenue  
+- 🎓 **B.S. Computer Science (2025)** & **M.S. Computer Science (2026)** @ **Stevens Institute of Technology**  
+- 💡 Passionate about **AI-powered SaaS**, **Full-Stack Development**, and **FinTech/ML Systems**  
+- ⚡ Built products like **ResumeSharp, F1 Insight Hub, Portfolio Optimizer** with real users & adoption  
 - 🌱 Currently learning **Cloud Security, Large-Scale ML, and DevOps Pipelines**  
 
 ---
@@ -35,10 +34,14 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 [**ResumeSharp**](https://github.com/patelpratyush/ResumeSharp) – AI-powered resume optimizer with Stripe billing & ATS parsing  
-🔹 [**F1 Insight Hub**](https://github.com/patelpratyush/f1-insight-hub) – ML models predicting race outcomes (0.359 MAE across 718+ races)  
-🔹 [**AI Portfolio Optimizer**](https://github.com/patelpratyush/portfolio-optimizer) – Stock portfolio analysis with ensemble ML (78% accuracy)  
-🔹 [**ProfessAI**](https://github.com/patelpratyush/professAI) – NLP-powered professor recommender (92% semantic accuracy)  
+🔹 [**AI-Powered Portfolio Optimizer**](https://github.com/patelpratyush/AI-Powered-Portfolio-Optimizer) – Portfolio analysis using **Modern Portfolio Theory** + **Prophet forecasting** (Python, Flask, React)  
+&nbsp;&nbsp;📈 Forecasted stock returns with **78% accuracy**; helps users balance risk & return  
+
+🔹 [**ResumeSharp**](https://github.com/patelpratyush/ResumeSharp) – LaTeX-powered resume builder with icons, themes & ATS parsing (TypeScript, Stripe billing)  
+&nbsp;&nbsp;⚡ Used by **150+ job seekers**, processed resumes for **5+ recruiters**, with **real Stripe revenue**  
+
+🔹 [**F1 Insight Hub**](https://github.com/patelpratyush/F1-Insight-Hub) – Race prediction models with **0.359 MAE across 718+ races** (TypeScript, ML)  
+&nbsp;&nbsp;🏎️ Delivered **92% prediction accuracy on top drivers**, validated on historical data  
 
 ---
 
@@ -55,6 +58,4 @@
 ---
 
 ## ✍️ Quote I Live By
-> "First, solve the problem. Then, write the code." – John Johnson  
-
----
+> "First, solve the problem. Then, write the code." – John Johnson
