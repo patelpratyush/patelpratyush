@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyush Patel</h1>
-<h3 align="center">Software Engineer | SaaS Builder | AI Enthusiast 🚀</h3>
+<h3 align="center">Software Engineer 🚀</h3>
 
 ---
 
